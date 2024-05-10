@@ -1,16 +1,17 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nadeera Silva 👋
 
 ## About Me
-I'm a passionate software engineer with expertise in Java, JavaScript, React, React.js, React Native, Kotlin, Dart, and Flutter.
+I'm a passionate software developement with expertise in Java, JavaScript, React, React.js, React Native, Kotlin, Dart, and Flutter.
 
-- 🌱 I'm currently learning [Something you're learning]
+- 🌱 I'm a Software Engineering undergraduate at NIBM.
 - 💬 Ask me about anything, I'm happy to help
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: nadeera.silva01@gmail.com
 
 ## Find Me Around the Web
-- [Linkedin](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Other Social Media](Your Other Social Media Profile URL)
+- [Linkedin](https://www.linkedin.com/in/nadeera-silvaa/)
+- [Twitter](https://twitter.com/nadeera__silva)
+- [Whatsapp](wa.me/0773302039)
+
 
 ## Languages and Tools
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
@@ -20,4 +21,7 @@ I'm a passionate software engineer with expertise in Java, JavaScript, React, Re
 [![](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+
 
